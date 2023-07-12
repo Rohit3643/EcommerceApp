@@ -1,0 +1,4 @@
+main.py: The main Python file that sets up the server and routes for the e-commerce application.
+templates/: A directory containing HTML templates for different pages of the e-commerce application (e.g., product listing, cart, checkout).
+static/: A directory containing CSS, JavaScript, and image files for styling and interactivity of the application.
+models.py: The Python file defining the data models for products, users, and orders.
